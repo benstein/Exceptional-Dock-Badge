@@ -31,7 +31,7 @@ function updateBadge(id, exception_count_regex) {
 	if (notice_divs.length > 0) {
 		exception_count_html = notice_divs[0].innerHTML;
 		count = exception_count_regex.exec(exception_count_html)[0];
-		window.fluid.dockBadge = count;
+		window.fluid.dockBadge = (count=='0' ? '' : count);
 	} else {
 		window.fluid.dockBadge = "";
 	}
