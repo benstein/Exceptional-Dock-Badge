@@ -1,0 +1,20 @@
+=== Fluid Dock Badge for Exceptional.com
+ 
+- [Code on GitHub](https://github.com/benstein/Exceptional-Dock-Badge)
+ 
+=== Description
+ 
+Display the number of open exceptions on an OS X Dock Badge for an Exceptional.com Fluid SSB
+
+=== Installation
+
+Find the script on http://userscripts.org/scripts/show/99106 and click "Install".  Or manually install in your Fluid Userscripts directory.
+
+=== Authors
+
+ - [Benjamin Stein](mailto:ben@benjaminste.in)
+
+=== License
+
+Copyright (c) 2011 Benjamin Stein
+See MIT-LICENSE in this directory.
